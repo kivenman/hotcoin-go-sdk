@@ -75,3 +75,8 @@ debug_*
 
 # Cache directories
 .cache/
+
+# Large documentation files
+*.html
+HOTCOIN*
+*_files/
